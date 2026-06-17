@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+knowledge/extracted/
+knowledge/manifest.json
+knowledge/daily_stats.json
+knowledge/last_digest.json
